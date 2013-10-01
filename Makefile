@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 0
-EXTRAVERSION =
+EXTRAVERSION =_Vendetta_1.0_
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
